@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6441" started-at="2019-08-28T10:31:16Z" finished-at="2019-08-28T10:31:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6441" started-at="2019-08-28T10:31:16Z" finished-at="2019-08-28T10:31:22Z">
+      <class name="com.datatesting.test.Apache_POI_TC">
+        <test-method status="PASS" signature="startd()[pri:0, instance:com.datatesting.test.Apache_POI_TC@4e9ba398]" name="startd" is-config="true" duration-ms="4632" started-at="2019-08-28T10:31:16Z" finished-at="2019-08-28T10:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startd -->
+        <test-method status="PASS" signature="begintest()[pri:0, instance:com.datatesting.test.Apache_POI_TC@4e9ba398]" name="begintest" duration-ms="1155" started-at="2019-08-28T10:31:20Z" finished-at="2019-08-28T10:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- begintest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.datatesting.test.Apache_POI_TC@4e9ba398]" name="endTest" is-config="true" duration-ms="636" started-at="2019-08-28T10:31:21Z" finished-at="2019-08-28T10:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.datatesting.test.Apache_POI_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
